@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Pets \u0026 Co Clínica Veterinária",
+  "description": "A clínica roxinha do Campeche. Clínica Multiespecialidades e Coworking Veterinário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
