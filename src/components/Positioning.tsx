@@ -5,7 +5,7 @@ export default function Positioning() {
         <div className="w-full md:w-1/2">
           <div className="relative w-full aspect-square md:aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-2xl">
             <img 
-              src="/img1 (3).jpeg" 
+              src="/img1 (5).jpeg" 
               alt="Veterinária examinando cachorro" 
               className="object-cover w-full h-full" 
             />

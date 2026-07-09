@@ -70,7 +70,7 @@ export default function Footer() {
       </div>
       
       <div className="max-w-7xl mx-auto px-4 mt-8 flex flex-col md:flex-row justify-between items-center text-xs font-light tracking-wide text-slate-500">
-        <p>&copy; {new Date().getFullYear()} Pets & Co. Clínica Veterinária. Todos os direitos reservados.</p>
+        <p>&copy; {new Date().getFullYear()} Pets<span className="font-sans text-[0.8em] text-accent-500 mx-1">&amp;</span>Co. Clínica Veterinária. Todos os direitos reservados.</p>
       </div>
     </footer>
   );

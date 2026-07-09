@@ -11,7 +11,7 @@ export default function Header() {
           </a>
         </div>
         
-        <nav className="hidden md:flex space-x-8 text-slate-500 font-medium text-sm tracking-wide">
+        <nav className="hidden md:flex space-x-8 text-slate-500 font-medium text-lg tracking-wide">
           <a href="#home" className="text-brand-900 font-semibold">Home</a>
           <a href="#sobre" className="hover:text-brand-900 transition-colors">Sobre</a>
           <a href="#servicos" className="hover:text-brand-900 transition-colors">Serviços</a>

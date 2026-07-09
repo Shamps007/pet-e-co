@@ -7,7 +7,7 @@ export default function About() {
             Sobre a Clínica (Humanização)
           </span>
           <h2 className="text-4xl md:text-5xl font-display font-bold text-brand-900 mb-8 leading-tight">
-            A PETS&Co. nasceu com um propósito simples: oferecer um atendimento mais humano, próximo e responsável.
+            A Pets<span className="font-sans text-[0.8em] text-accent-500 mx-1">&amp;</span>Co. nasceu com um propósito simples: oferecer um atendimento mais humano, próximo e responsável.
           </h2>
           <div className="w-12 h-[2px] bg-accent-500 mx-auto md:mx-0 mb-8"></div>
           <p className="text-lg text-slate-500 font-light leading-relaxed mb-6">
@@ -20,7 +20,7 @@ export default function About() {
         <div className="w-full md:w-1/2">
           <div className="relative w-full aspect-square md:aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-2xl">
             <img 
-              src="/img1 (2).jpeg" 
+              src="/img1 (1).jpeg" 
               alt="Veterinária carinhosa com cachorro" 
               className="object-cover w-full h-full" 
             />

@@ -32,7 +32,7 @@ export default function Features() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16">
           <span className="text-accent-500 font-semibold tracking-[0.2em] uppercase text-xs mb-4 block">Diferenciais</span>
-          <h2 className="text-4xl md:text-5xl font-display font-bold text-brand-900 mb-6">Por que escolher a PETS&Co.?</h2>
+          <h2 className="text-4xl md:text-5xl font-display font-bold text-brand-900 mb-6">Por que escolher a Pets<span className="font-sans text-[0.8em] text-accent-500 mx-1">&amp;</span>Co.?</h2>
           <div className="w-12 h-[2px] bg-accent-500 mx-auto"></div>
           <p className="text-lg text-slate-500 max-w-2xl mx-auto mt-8 font-light leading-relaxed">
             Nossa infraestrutura no Campeche foi pensada para oferecer o melhor atendimento. Nosso compromisso é com a saúde e o bem-estar do seu pet.

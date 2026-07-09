@@ -1,10 +1,11 @@
 export default function Gallery() {
   const images = [
+    "/img1 (8).jpeg",
+    "/img1 (2).jpeg",
+    "/img1 (3).jpeg",
     "/img1 (4).jpeg",
-    "/img1 (5).jpeg",
     "/img1 (6).jpeg",
     "/img1 (7).jpeg",
-    "/img1 (8).jpeg",
     "/img1 (9).jpeg",
     "/img1 (10).jpeg",
   ];

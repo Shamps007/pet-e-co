@@ -37,7 +37,7 @@ export default function Hero() {
         <div className="w-full md:w-1/2">
           <div className="relative w-full rounded-[2.5rem] overflow-hidden shadow-2xl">
              <img 
-               src="/img1 (1).jpeg" 
+               src="/IMG_0741 (1).jpg" 
                alt="Cuidado veterinário" 
                className="w-full h-auto" 
              />
