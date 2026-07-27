@@ -4,7 +4,7 @@ export default function About() {
       <div className="max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center gap-16">
         <div className="w-full md:w-1/2 text-center md:text-left">
           <span className="text-accent-500 font-semibold tracking-[0.2em] uppercase text-xs mb-6 block">
-            Sobre a Clínica (Humanização)
+            Sobre a Clínica
           </span>
           <h2 className="text-4xl md:text-5xl font-display font-bold text-brand-900 mb-8 leading-tight">
             A Pets<span className="font-sans text-[0.8em] text-accent-500 mx-1">&amp;</span>Co. nasceu com um propósito simples: oferecer um atendimento mais humano, próximo e responsável.
